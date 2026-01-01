@@ -52,28 +52,30 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Projects I Enjoy Building</h3>
-      <ul>
-        <li>Interactive web applications with thoughtful UI/UX</li>
-        <li>AI-assisted systems with a human-centered goal</li>
-        <li>Educational and assistive tools (games, dashboards)</li>
-        <li>Projects that balance logic + creativity</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3>📚 Currently Learning</h3>
-      <ul>
-        <li>Advanced Machine Learning concepts</li>
-        <li>System design fundamentals</li>
-        <li>Clean architecture & scalable backends</li>
-        <li>Assembly & OS concepts</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 Projects I Enjoy Building</h3>
+        <ul>
+          <li>Interactive web applications with thoughtful UI/UX</li>
+          <li>AI-assisted systems with a human-centered goal</li>
+          <li>Educational and assistive tools (games, dashboards)</li>
+          <li>Projects that balance logic + creativity</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📚 Currently Learning</h3>
+        <ul>
+          <li>Advanced Machine Learning concepts</li>
+          <li>System design fundamentals</li>
+          <li>Clean architecture & scalable backends</li>
+          <li>Assembly & OS concepts</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
@@ -100,12 +102,12 @@
 <br />
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnushreeChatterjee2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushreeChatterjee2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushreeChatterjee2005&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushreeChatterjee2005&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushreeChatterjee2005&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushreeChatterjee2005&theme=gotham&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 <br />
