@@ -10,15 +10,14 @@
 <h3 align="center">💡 What I’m Interested In</h3>
 <p align="center">
   💻 <b>Software Engineering</b>: Strong focus on fundamentals and clean architecture.<br>
-  🌐 <b>Full-Stack Development</b>: Building scalable web applications with React & Node.<br>
-  🤖 <b>Applied AI & ML</b>: Understanding the logic behind the libraries (SVMs, Perceptrons).<br>
+  🌐 <b>Full-Stack Development</b>: Building scalable web applications.<br>
+  🤖 <b>Applied AI & ML</b>: Understanding the logic behind the libraries.<br>
   📄 <b>Research</b>: Reading technical papers and deep-diving into systems.<br>
   ❤️ <b>Impact</b>: Creating tech for education and healthcare.
 </p>
 <br />
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
-  <p><b>Languages</b></p>
   <p>
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -26,18 +25,15 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </p>
-  <p><b>Web & Backend</b></p>
   <p>
     <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </p>
-  <p><b>AI / ML & Tools</b></p>
   <p>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
 </div>
 <br />
@@ -48,7 +44,7 @@
       <ul>
         <li>Interactive web applications with thoughtful UI/UX</li>
         <li>AI-assisted systems with a human-centered goal</li>
-        <li>Educational and assistive tools (games, dashboards)</li>
+        <li>Educational and assistive tools</li>
         <li>Projects that balance logic + creativity</li>
       </ul>
     </td>
@@ -66,9 +62,8 @@
 <br />
 <div align="center">
   <h3>🎯 Goals</h3>
-  <b>Become a strong Software Engineer with deep fundamentals</b><br>
   Work on products that solve real problems<br>
-  Explore research and innovation alongside development<br>
+  Explore research and innovation<br>
   Pursue higher studies and global opportunities
 </div>
 <br />
@@ -76,24 +71,15 @@
   <h3>🌱 A Little More About Me</h3>
   <p>
     I prefer <b>clarity over complexity</b>.<br>
-    I like <b>breaking big problems into simple pieces</b>.<br>
     I believe good software should be <b>useful, readable, and humane</b>.<br>
     I learn best by <b>building and teaching back what I learn</b>.
   </p>
 </div>
 <br />
-<!-- 
-  GITHUB STATS - IMPORTANT: 
-  If these images are broken, verify that your GitHub username is EXACTLY 'AnushreeChatterjee2005'
--->
+<!-- Simplified Statistics -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnushreeChatterjee2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushreeChatterjee2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushreeChatterjee2005&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushreeChatterjee2005&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<br />
 <div align="center">
   <h3>📫 Let's Connect</h3>
   <a href="https://github.com/AnushreeChatterjee2005">
