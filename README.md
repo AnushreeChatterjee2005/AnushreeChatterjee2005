@@ -10,8 +10,8 @@
 <h3 align="center">💡 What I’m Interested In</h3>
 <p align="center">
   💻 <b>Software Engineering</b>: Strong focus on fundamentals and clean architecture.<br>
-  🌐 <b>Full-Stack Development</b>: Building scalable web applications.<br>
-  🤖 <b>Applied AI & ML</b>: Understanding the logic behind the libraries.<br>
+  🌐 <b>Full-Stack Development</b>: Building scalable web applications with React & Node.<br>
+  🤖 <b>Applied AI & ML</b>: Understanding the logic behind the libraries (SVMs, Perceptrons).<br>
   📄 <b>Research</b>: Reading technical papers and deep-diving into systems.<br>
   ❤️ <b>Impact</b>: Creating tech for education and healthcare.
 </p>
@@ -43,22 +43,22 @@
 <br />
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h3>🚀 Projects I Enjoy Building</h3>
       <ul>
         <li>Interactive web applications with thoughtful UI/UX</li>
         <li>AI-assisted systems with a human-centered goal</li>
-        <li>Educational and assistive tools (games, dashboards, automation)</li>
+        <li>Educational and assistive tools (games, dashboards)</li>
         <li>Projects that balance logic + creativity</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="45%" valign="top">
       <h3>📚 Currently Learning</h3>
       <ul>
         <li>Advanced Machine Learning concepts</li>
         <li>System design fundamentals</li>
-        <li>Clean architecture & scalable backend design</li>
-        <li>Low-level understanding (Assembly, OS concepts)</li>
+        <li>Clean architecture & scalable backends</li>
+        <li>Assembly & OS concepts</li>
       </ul>
     </td>
   </tr>
@@ -66,11 +66,10 @@
 <br />
 <div align="center">
   <h3>🎯 Goals</h3>
-  <br>
   <b>Become a strong Software Engineer with deep fundamentals</b><br>
-  Work on products that solve real problems, not just demo apps<br>
+  Work on products that solve real problems<br>
   Explore research and innovation alongside development<br>
-  Eventually pursue higher studies and global opportunities
+  Pursue higher studies and global opportunities
 </div>
 <br />
 <div align="center">
@@ -83,17 +82,16 @@
   </p>
 </div>
 <br />
-<!-- GitHub Stats Section -->
+<!-- 
+  GITHUB STATS - IMPORTANT: 
+  If these images are broken, verify that your GitHub username is EXACTLY 'AnushreeChatterjee2005'
+-->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnushreeChatterjee2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anushree's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushreeChatterjee2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnushreeChatterjee2005&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushreeChatterjee2005&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushreeChatterjee2005&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushreeChatterjee2005&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <br />
 <div align="center">
