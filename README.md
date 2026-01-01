@@ -1,24 +1,85 @@
 <br />
-<h1 align="center">Hi there, I'm Anushree Chatterjee! 👋</h1>
+<h1 align="center">Hi, I’m Anushree Chatterjee! 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Founder+of+Mylo+Browser;Building+the+Future+of+Browsing;CS+Student+%26+Developer;React+Native+%26+Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Building+Meaningful+Software;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 <p align="center">
-  I'm a passionate Computer Science student and the founder of <a href="https://github.com/saketjndl/MyloBrowser">Mylo Browser</a>. I love building aesthetic, high-performance applications that push the boundaries of user experience.
+  I’m a Computer Science undergraduate who enjoys building meaningful software that actually helps people. I thrive at the intersection of <b>problem-solving, systems thinking, and clean design</b>, and I’m always curious about how things work under the hood.
 </p>
 <br />
-<!-- Tech Stack Section -->
+<h3 align="center">💡 What I’m Interested In</h3>
+<p align="center">
+  💻 <b>Software Engineering</b>: Strong focus on fundamentals and clean architecture.<br>
+  🌐 <b>Full-Stack Development</b>: Building scalable web applications.<br>
+  🤖 <b>Applied AI & ML</b>: Understanding the logic behind the libraries.<br>
+  📄 <b>Research</b>: Reading technical papers and deep-diving into systems.<br>
+  ❤️ <b>Impact</b>: Creating tech for education and healthcare.
+</p>
+<br />
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
-  
+  <p><b>Languages</b></p>
   <p>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/expo-1C1E20?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </p>
+  <p><b>Web & Backend</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+  <p><b>AI / ML & Tools</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
+</div>
+<br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Projects I Enjoy Building</h3>
+      <ul>
+        <li>Interactive web applications with thoughtful UI/UX</li>
+        <li>AI-assisted systems with a human-centered goal</li>
+        <li>Educational and assistive tools (games, dashboards, automation)</li>
+        <li>Projects that balance logic + creativity</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Currently Learning</h3>
+      <ul>
+        <li>Advanced Machine Learning concepts</li>
+        <li>System design fundamentals</li>
+        <li>Clean architecture & scalable backend design</li>
+        <li>Low-level understanding (Assembly, OS concepts)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<br />
+<div align="center">
+  <h3>🎯 Goals</h3>
+  <br>
+  <b>Become a strong Software Engineer with deep fundamentals</b><br>
+  Work on products that solve real problems, not just demo apps<br>
+  Explore research and innovation alongside development<br>
+  Eventually pursue higher studies and global opportunities
+</div>
+<br />
+<div align="center">
+  <h3>🌱 A Little More About Me</h3>
+  <p>
+    I prefer <b>clarity over complexity</b>.<br>
+    I like <b>breaking big problems into simple pieces</b>.<br>
+    I believe good software should be <b>useful, readable, and humane</b>.<br>
+    I learn best by <b>building and teaching back what I learn</b>.
   </p>
 </div>
 <br />
