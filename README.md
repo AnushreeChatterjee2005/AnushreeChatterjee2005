@@ -101,11 +101,11 @@
 
 <br />
 
-<!-- Streak Stats (Working) -->
+<!-- Streak Stats (Working) 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushreeChatterjee2005&theme=gotham&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
-
+-->
 <!-- 
   NOTE: The main stats cards are currently commented out because the server is down. 
   You can uncomment them later to see if they work.
