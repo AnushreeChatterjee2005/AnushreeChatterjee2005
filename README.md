@@ -53,6 +53,16 @@
 <br />
 
 <div align="center">
+  <h3>✨ Featured Project</h3>
+  <p>
+    <a href="https://key-2-success.vercel.app/"><b>Key to Success</b></a><br>
+    A gamified productivity dashboard designed to help you stay organized and motivated.
+  </p>
+</div>
+
+<br />
+
+<div align="center">
   <table align="center">
     <tr>
       <td width="50%" valign="top">
