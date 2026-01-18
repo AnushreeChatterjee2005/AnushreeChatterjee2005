@@ -66,7 +66,6 @@
     </tr>
     <tr>
       <td colspan="2" align="center" valign="top" style="border: none;">
-        <br>
         <a href="https://github.com/AnushreeChatterjee2005/assistive-shooter"><b>Assistive Shooter 🎮✋</b></a><br>
         A gesture-controlled multi-level shooting game powered by <b>MediaPipe</b> and <b>OpenCV</b>. Control the game entirely with your hand movements - no mouse or keyboard required!
       </td>
