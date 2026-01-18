@@ -30,8 +30,7 @@
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
   </p>
 
   <p><b>Web & Backend</b></p>
@@ -53,11 +52,26 @@
 <br />
 
 <div align="center">
-  <h3>✨ Featured Project</h3>
-  <p>
-    <a href="https://key-2-success.vercel.app/"><b>Key to Success</b></a><br>
-    A gamified productivity dashboard designed to help you stay organized and motivated.
-  </p>
+  <h3>✨ Featured Projects</h3>
+  <table align="center" style="border: none;">
+    <tr>
+      <td width="50%" align="center" valign="top" style="border: none;">
+        <a href="https://key-2-success.vercel.app/"><b>Key to Success</b></a><br>
+        A gamified productivity dashboard designed to help you stay organized and motivated.
+      </td>
+      <td width="50%" align="center" valign="top" style="border: none;">
+        <b>Mylo Browser 🛡️</b> <i>(Private)</i><br>
+        A secure, modern web browser features <b>AI-powered threat detection</b>, <b>real-time network visualization</b>, and <b>advanced privacy shields</b>.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top" style="border: none;">
+        <br>
+        <a href="https://github.com/AnushreeChatterjee2005/assistive-shooter"><b>Assistive Shooter 🎮✋</b></a><br>
+        A gesture-controlled multi-level shooting game powered by <b>MediaPipe</b> and <b>OpenCV</b>. Control the game entirely with your hand movements - no mouse or keyboard required!
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
